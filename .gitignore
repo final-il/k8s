@@ -1,2 +1,5 @@
 .terraform/
 *.swp
+*hosts.ini
+*.backup
+*.tfstate
